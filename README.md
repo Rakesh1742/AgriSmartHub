@@ -1,3 +1,4 @@
+
 # Agri-Assist-Project
 
 Welcome to Agri-Assist Project, an innovative agricultural application designed to tackle key challenges in farming using cutting-edge technology. This project, developed with the MERN (MongoDB, Express.js, React, Node.js) stack and integrated with a Flask API, encompasses two distinct modules. These modules cater to crop-related issues and enable yield marketing through an intuitive e-commerce platform.
@@ -120,7 +121,4 @@ Welcome to Agri-Assist Project, an innovative agricultural application designed 
 
 #### Mail response
 ![Screenshot (1919)](https://github.com/MohdSaif-1807/Agri-Assist-Project/assets/113005309/0f1b6705-4851-4de4-93a8-1694ac6a54bc)
-
-
-
 
